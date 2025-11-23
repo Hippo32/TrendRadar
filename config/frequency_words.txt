@@ -3,15 +3,11 @@ JavaScript
 CSS
 Vue
 
-京东
-刘强东
+架构
 
 字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
+腾讯
+阿里
 
 微软
 Microsoft
@@ -35,7 +31,6 @@ claude
 Anthropic
 
 ai
-!gai
 人工智能
 
 自动驾驶
@@ -48,7 +43,6 @@ ai
 美国
 日本
 韩国
-
 
 科技
 
