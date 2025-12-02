@@ -3,8 +3,6 @@ JavaScript
 CSS
 Vue
 
-架构
-
 字节
 腾讯
 阿里
@@ -26,8 +24,6 @@ Anthropic
 
 ai
 人工智能
-
-科技
 
 数据分析
 
