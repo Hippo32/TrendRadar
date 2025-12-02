@@ -12,12 +12,6 @@ Vue
 微软
 Microsoft
 
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
 谷歌
 google
 gemini
@@ -33,16 +27,7 @@ Anthropic
 ai
 人工智能
 
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
 科技
+
+数据分析
 
